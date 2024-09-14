@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Shrijan Shrestha</h1>
 <h3 align="center">Undergraduate student in BScIT.</h3>
-https://imgs.search.brave.com/P8SnBss4aUdU09REPUueBy4xHcWSTTLH0JdIwEk3aDk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZW1l/c2JhbXMuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzAx/LzExLVBva2Vtb24t/TGF1Z2hpbmctQW5p/bWF0ZWQtR2lmLmdp/Zg.gif
+
+img align="right" alt="Coding" width="400" src="https://imgs.search.brave.com/P8SnBss4aUdU09REPUueBy4xHcWSTTLH0JdIwEk3aDk/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZW1l/c2JhbXMuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDE4LzAx/LzExLVBva2Vtb24t/TGF1Z2hpbmctQW5p/bWF0ZWQtR2lmLmdp/Zg.gif"
+
 - 📫 How to reach me **srijanshrestha554@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
