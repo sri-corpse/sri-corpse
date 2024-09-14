@@ -8,4 +8,4 @@
 <a href="https://linkedin.com/in/shrijan shrestha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrijan shrestha" height="30" width="40" /></a>
 <a href="https://discord.gg/c0rpse69" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="c0rpse69" height="30" width="40" /></a>
 </p>
-https://github.com/your-repo-name/gifname.gif 
+![My Animated GIF](https://raw.githubusercontent.com/your-repo-name/gifname.gif){: width=400, height=300 }
